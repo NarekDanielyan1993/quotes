@@ -1,0 +1,1 @@
+export const BASE_URL = "https://quotes-c4e7c-default-rtdb.firebaseio.com";
